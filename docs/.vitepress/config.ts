@@ -2,7 +2,7 @@
  * @Author: shy 1533103845@qq.com
  * @Date: 2024-10-08 09:03:50
  * @LastEditors: shy 1533103845@qq.com
- * @LastEditTime: 2024-10-08 19:33:56
+ * @LastEditTime: 2024-10-08 19:36:50
  * @FilePath: \vue3-ts-docs\docs\.vitepress\config.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -23,7 +23,7 @@ export default defineConfig({
             { text: "常见问题", link: "/faq/"},
         ],
         socialLinks: [
-            {icon: "github", link: "https://vue3-ts-docs-gamma.vercel.app/"},
+            {icon: "github", link: "https://github.com/shy027/vue3-ts-docs"},
         ],
         sidebar: {
             "/guide/": [
